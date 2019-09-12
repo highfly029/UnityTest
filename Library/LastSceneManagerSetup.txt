@@ -1,4 +1,0 @@
-sceneSetups:
-- path: Assets/source/scene/Yw_LiangShan.unity
-  isLoaded: 1
-  isActive: 1
