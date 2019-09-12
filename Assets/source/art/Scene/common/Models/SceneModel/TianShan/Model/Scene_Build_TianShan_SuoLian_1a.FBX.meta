@@ -1,0 +1,235 @@
+fileFormatVersion: 2
+guid: b2caae66835e5344fbc0737df277af00
+timeCreated: 1517378807
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Scene_Build_TianShan_SuoLian_1_Xzm
+    100002: //RootNode
+    100004: Scene_Build_TianShan_SuoLian_1a
+    100006: Scene_Build_TianShan_SuoLian_1a_Xzm
+    100008: ck01
+    100010: Scene_Build_TianShan_SuoLian_1b
+    100012: Scene_Build_TianShan_SuoLian_1b_Xzm
+    100014: Scene_Build_TianShan_SuoLian_1c
+    100016: Scene_Build_TianShan_SuoLian_1c_Xzm
+    100018: Scene_Build_TianShan_SuoLian_1d
+    100020: Scene_Build_TianShan_SuoLian_1d_Xzm
+    100022: Scene_Build_TianShan_SuoLian_1e
+    100024: Scene_Build_TianShan_SuoLian_1e_Xzm
+    100026: Scene_Build_TianShan_XieJian_1_1
+    100028: Scene_Rock_XueShanShi_1__28_
+    100030: Scene_Rock_XueShanShi_1_Xzm_3
+    100032: Scene_Rock_XueShanShi_2__18_
+    100034: Scene_Rock_XueShanShi_2__1_
+    100036: Scene_Rock_XueShanShi_2__5_
+    100038: Scene_Rock_XueShanShi_2__7_
+    100040: Scene_Rock_XueShanShi_3_5
+    100042: Scene_Rock_XueShanShi_3_6
+    100044: Scene_Rock_XueShanShi_3__18_
+    100046: Scene_Rock_XueShanShi_4_11
+    100048: Scene_Rock_XueShanShi_4_6
+    100050: Scene_Rock_XueShanShi_4_7
+    100052: Scene_Rock_XueShanShi_4__4_
+    100054: Scene_Rock_XueShanShi_4_Xzm_6
+    100056: Scene_Rock_XueShanShi_5_12
+    100058: Scene_Rock_XueShanShi_5__4_
+    100060: t4
+    400000: Scene_Build_TianShan_SuoLian_1_Xzm
+    400002: //RootNode
+    400004: Scene_Build_TianShan_SuoLian_1a
+    400006: Scene_Build_TianShan_SuoLian_1a_Xzm
+    400008: ck01
+    400010: Scene_Build_TianShan_SuoLian_1b
+    400012: Scene_Build_TianShan_SuoLian_1b_Xzm
+    400014: Scene_Build_TianShan_SuoLian_1c
+    400016: Scene_Build_TianShan_SuoLian_1c_Xzm
+    400018: Scene_Build_TianShan_SuoLian_1d
+    400020: Scene_Build_TianShan_SuoLian_1d_Xzm
+    400022: Scene_Build_TianShan_SuoLian_1e
+    400024: Scene_Build_TianShan_SuoLian_1e_Xzm
+    400026: Scene_Build_TianShan_XieJian_1_1
+    400028: Scene_Rock_XueShanShi_1__28_
+    400030: Scene_Rock_XueShanShi_1_Xzm_3
+    400032: Scene_Rock_XueShanShi_2__18_
+    400034: Scene_Rock_XueShanShi_2__1_
+    400036: Scene_Rock_XueShanShi_2__5_
+    400038: Scene_Rock_XueShanShi_2__7_
+    400040: Scene_Rock_XueShanShi_3_5
+    400042: Scene_Rock_XueShanShi_3_6
+    400044: Scene_Rock_XueShanShi_3__18_
+    400046: Scene_Rock_XueShanShi_4_11
+    400048: Scene_Rock_XueShanShi_4_6
+    400050: Scene_Rock_XueShanShi_4_7
+    400052: Scene_Rock_XueShanShi_4__4_
+    400054: Scene_Rock_XueShanShi_4_Xzm_6
+    400056: Scene_Rock_XueShanShi_5_12
+    400058: Scene_Rock_XueShanShi_5__4_
+    400060: t4
+    2300000: Scene_Build_TianShan_SuoLian_1_Xzm
+    2300002: Scene_Build_TianShan_SuoLian_1a
+    2300004: Scene_Build_TianShan_SuoLian_1a_Xzm
+    2300006: ck01
+    2300008: Scene_Build_TianShan_SuoLian_1b
+    2300010: Scene_Build_TianShan_SuoLian_1b_Xzm
+    2300012: Scene_Build_TianShan_SuoLian_1c
+    2300014: Scene_Build_TianShan_SuoLian_1c_Xzm
+    2300016: Scene_Build_TianShan_SuoLian_1d
+    2300018: Scene_Build_TianShan_SuoLian_1d_Xzm
+    2300020: Scene_Build_TianShan_SuoLian_1e
+    2300022: Scene_Build_TianShan_SuoLian_1e_Xzm
+    2300024: Scene_Build_TianShan_XieJian_1_1
+    2300026: Scene_Rock_XueShanShi_1__28_
+    2300028: Scene_Rock_XueShanShi_1_Xzm_3
+    2300030: Scene_Rock_XueShanShi_2__18_
+    2300032: Scene_Rock_XueShanShi_2__1_
+    2300034: Scene_Rock_XueShanShi_2__5_
+    2300036: Scene_Rock_XueShanShi_2__7_
+    2300038: Scene_Rock_XueShanShi_3_5
+    2300040: Scene_Rock_XueShanShi_3_6
+    2300042: Scene_Rock_XueShanShi_3__18_
+    2300044: Scene_Rock_XueShanShi_4_11
+    2300046: Scene_Rock_XueShanShi_4_6
+    2300048: Scene_Rock_XueShanShi_4_7
+    2300050: Scene_Rock_XueShanShi_4__4_
+    2300052: Scene_Rock_XueShanShi_4_Xzm_6
+    2300054: Scene_Rock_XueShanShi_5_12
+    2300056: Scene_Rock_XueShanShi_5__4_
+    2300058: t4
+    3300000: Scene_Build_TianShan_SuoLian_1_Xzm
+    3300002: Scene_Build_TianShan_SuoLian_1a
+    3300004: Scene_Build_TianShan_SuoLian_1a_Xzm
+    3300006: ck01
+    3300008: Scene_Build_TianShan_SuoLian_1b
+    3300010: Scene_Build_TianShan_SuoLian_1b_Xzm
+    3300012: Scene_Build_TianShan_SuoLian_1c
+    3300014: Scene_Build_TianShan_SuoLian_1c_Xzm
+    3300016: Scene_Build_TianShan_SuoLian_1d
+    3300018: Scene_Build_TianShan_SuoLian_1d_Xzm
+    3300020: Scene_Build_TianShan_SuoLian_1e
+    3300022: Scene_Build_TianShan_SuoLian_1e_Xzm
+    3300024: Scene_Build_TianShan_XieJian_1_1
+    3300026: Scene_Rock_XueShanShi_1__28_
+    3300028: Scene_Rock_XueShanShi_1_Xzm_3
+    3300030: Scene_Rock_XueShanShi_2__18_
+    3300032: Scene_Rock_XueShanShi_2__1_
+    3300034: Scene_Rock_XueShanShi_2__5_
+    3300036: Scene_Rock_XueShanShi_2__7_
+    3300038: Scene_Rock_XueShanShi_3_5
+    3300040: Scene_Rock_XueShanShi_3_6
+    3300042: Scene_Rock_XueShanShi_3__18_
+    3300044: Scene_Rock_XueShanShi_4_11
+    3300046: Scene_Rock_XueShanShi_4_6
+    3300048: Scene_Rock_XueShanShi_4_7
+    3300050: Scene_Rock_XueShanShi_4__4_
+    3300052: Scene_Rock_XueShanShi_4_Xzm_6
+    3300054: Scene_Rock_XueShanShi_5_12
+    3300056: Scene_Rock_XueShanShi_5__4_
+    3300058: t4
+    4300000: Scene_Build_TianShan_SuoLian_1_Xzm
+    4300002: Scene_Build_TianShan_SuoLian_1a
+    4300004: Scene_Build_TianShan_SuoLian_1a_Xzm
+    4300006: ck01
+    4300008: Scene_Rock_XueShanShi_5__4_
+    4300010: Scene_Rock_XueShanShi_4__4_
+    4300012: Scene_Rock_XueShanShi_2__18_
+    4300014: Scene_Rock_XueShanShi_2__7_
+    4300016: Scene_Rock_XueShanShi_2__5_
+    4300018: Scene_Rock_XueShanShi_3__18_
+    4300020: Scene_Rock_XueShanShi_1__28_
+    4300022: t4
+    4300024: Scene_Rock_XueShanShi_2__1_
+    4300026: Scene_Rock_XueShanShi_4_11
+    4300028: Scene_Rock_XueShanShi_3_5
+    4300030: Scene_Rock_XueShanShi_5_12
+    4300032: Scene_Rock_XueShanShi_3_6
+    4300034: Scene_Rock_XueShanShi_4_7
+    4300036: Scene_Build_TianShan_XieJian_1_1
+    4300038: Scene_Rock_XueShanShi_1_Xzm_3
+    4300040: Scene_Rock_XueShanShi_4_Xzm_6
+    4300042: Scene_Rock_XueShanShi_4_6
+    4300044: Scene_Build_TianShan_SuoLian_1d
+    4300046: Scene_Build_TianShan_SuoLian_1c
+    4300048: Scene_Build_TianShan_SuoLian_1b_Xzm
+    4300050: Scene_Build_TianShan_SuoLian_1d_Xzm
+    4300052: Scene_Build_TianShan_SuoLian_1c_Xzm
+    4300054: Scene_Build_TianShan_SuoLian_1e
+    4300056: Scene_Build_TianShan_SuoLian_1e_Xzm
+    4300058: Scene_Build_TianShan_SuoLian_1b
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

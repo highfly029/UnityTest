@@ -1,0 +1,330 @@
+fileFormatVersion: 2
+guid: 303f99e991d61414eb0beec9ed32494c
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: BingYingZhong_Bing_1
+    100004: BingYingZhong_Bing_2
+    100006: BingYingZhong_BingChuang_1
+    100008: BingYingZhong_Di_1
+    100010: BingYingZhong_MenDong_1
+    100012: BingYingZhong_MenDong_1 1
+    100014: BingYingZhong_Mendong_2
+    100016: BingYingZhong_Mendong_2 1
+    100018: BingYingZhong_MenDong_3
+    100020: BingYingZhong_MenDong_3 1
+    100022: BingYingZhong_Qiang_1
+    100024: BingYingZhong_Qiang_2
+    100026: BingYingZhong_ShiZhu_1
+    100028: BingYingZhong_ShiZhu_1 1
+    100030: BingYingZhong_ShiZhu_1 2
+    100032: BingYingZhong_ShiZhu_1 3
+    100034: BingYingZhong_ShiZhu_1 4
+    100036: BingYingZhong_ShiZhu_1 5
+    100038: BingYingZhong_ShiZhu_2
+    100040: BingYingZhong_ShiZhu_2 1
+    100042: BingYingZhong_ShiZhu_2 2
+    100044: BingYingZhong_ShiZhu_2 3
+    100046: BingYingZhong_ShiZhu_2 4
+    100048: BingYingZhong_ShiZhu_2 5
+    100050: BingYingZhong_ShiZhu_2 6
+    100052: BingYingZhong_ShiZi_1
+    100054: BingYingZhong_ShiZi_1 1
+    100056: BingYingZhong_ShiZi_1 2
+    100058: BingYingZhong_ShiZi_1 3
+    100060: BingYingZhong_ShiZi_1 4
+    100062: BingYingZhong_ShiZi_1 5
+    100064: BingYingZhong_ShiZi_1 6
+    100066: BingYingZhong_ShiZi_1 7
+    100068: BingYingZhong_Xue_1_N
+    400000: //RootNode
+    400002: BingYingZhong_Bing_1
+    400004: BingYingZhong_Bing_2
+    400006: BingYingZhong_BingChuang_1
+    400008: BingYingZhong_Di_1
+    400010: BingYingZhong_MenDong_1
+    400012: BingYingZhong_MenDong_1 1
+    400014: BingYingZhong_Mendong_2
+    400016: BingYingZhong_Mendong_2 1
+    400018: BingYingZhong_MenDong_3
+    400020: BingYingZhong_MenDong_3 1
+    400022: BingYingZhong_Qiang_1
+    400024: BingYingZhong_Qiang_2
+    400026: BingYingZhong_ShiZhu_1
+    400028: BingYingZhong_ShiZhu_1 1
+    400030: BingYingZhong_ShiZhu_1 2
+    400032: BingYingZhong_ShiZhu_1 3
+    400034: BingYingZhong_ShiZhu_1 4
+    400036: BingYingZhong_ShiZhu_1 5
+    400038: BingYingZhong_ShiZhu_2
+    400040: BingYingZhong_ShiZhu_2 1
+    400042: BingYingZhong_ShiZhu_2 2
+    400044: BingYingZhong_ShiZhu_2 3
+    400046: BingYingZhong_ShiZhu_2 4
+    400048: BingYingZhong_ShiZhu_2 5
+    400050: BingYingZhong_ShiZhu_2 6
+    400052: BingYingZhong_ShiZi_1
+    400054: BingYingZhong_ShiZi_1 1
+    400056: BingYingZhong_ShiZi_1 2
+    400058: BingYingZhong_ShiZi_1 3
+    400060: BingYingZhong_ShiZi_1 4
+    400062: BingYingZhong_ShiZi_1 5
+    400064: BingYingZhong_ShiZi_1 6
+    400066: BingYingZhong_ShiZi_1 7
+    400068: BingYingZhong_Xue_1_N
+    2300000: BingYingZhong_Bing_1
+    2300002: BingYingZhong_Bing_2
+    2300004: BingYingZhong_BingChuang_1
+    2300006: BingYingZhong_Di_1
+    2300008: BingYingZhong_MenDong_1
+    2300010: BingYingZhong_MenDong_1 1
+    2300012: BingYingZhong_Mendong_2
+    2300014: BingYingZhong_Mendong_2 1
+    2300016: BingYingZhong_MenDong_3
+    2300018: BingYingZhong_MenDong_3 1
+    2300020: BingYingZhong_Qiang_1
+    2300022: BingYingZhong_Qiang_2
+    2300024: BingYingZhong_ShiZhu_1
+    2300026: BingYingZhong_ShiZhu_1 1
+    2300028: BingYingZhong_ShiZhu_1 2
+    2300030: BingYingZhong_ShiZhu_1 3
+    2300032: BingYingZhong_ShiZhu_1 4
+    2300034: BingYingZhong_ShiZhu_1 5
+    2300036: BingYingZhong_ShiZhu_2
+    2300038: BingYingZhong_ShiZhu_2 1
+    2300040: BingYingZhong_ShiZhu_2 2
+    2300042: BingYingZhong_ShiZhu_2 3
+    2300044: BingYingZhong_ShiZhu_2 4
+    2300046: BingYingZhong_ShiZhu_2 5
+    2300048: BingYingZhong_ShiZhu_2 6
+    2300050: BingYingZhong_ShiZi_1
+    2300052: BingYingZhong_ShiZi_1 1
+    2300054: BingYingZhong_ShiZi_1 2
+    2300056: BingYingZhong_ShiZi_1 3
+    2300058: BingYingZhong_ShiZi_1 4
+    2300060: BingYingZhong_ShiZi_1 5
+    2300062: BingYingZhong_ShiZi_1 6
+    2300064: BingYingZhong_ShiZi_1 7
+    2300066: BingYingZhong_Xue_1_N
+    3300000: BingYingZhong_Bing_1
+    3300002: BingYingZhong_Bing_2
+    3300004: BingYingZhong_BingChuang_1
+    3300006: BingYingZhong_Di_1
+    3300008: BingYingZhong_MenDong_1
+    3300010: BingYingZhong_MenDong_1 1
+    3300012: BingYingZhong_Mendong_2
+    3300014: BingYingZhong_Mendong_2 1
+    3300016: BingYingZhong_MenDong_3
+    3300018: BingYingZhong_MenDong_3 1
+    3300020: BingYingZhong_Qiang_1
+    3300022: BingYingZhong_Qiang_2
+    3300024: BingYingZhong_ShiZhu_1
+    3300026: BingYingZhong_ShiZhu_1 1
+    3300028: BingYingZhong_ShiZhu_1 2
+    3300030: BingYingZhong_ShiZhu_1 3
+    3300032: BingYingZhong_ShiZhu_1 4
+    3300034: BingYingZhong_ShiZhu_1 5
+    3300036: BingYingZhong_ShiZhu_2
+    3300038: BingYingZhong_ShiZhu_2 1
+    3300040: BingYingZhong_ShiZhu_2 2
+    3300042: BingYingZhong_ShiZhu_2 3
+    3300044: BingYingZhong_ShiZhu_2 4
+    3300046: BingYingZhong_ShiZhu_2 5
+    3300048: BingYingZhong_ShiZhu_2 6
+    3300050: BingYingZhong_ShiZi_1
+    3300052: BingYingZhong_ShiZi_1 1
+    3300054: BingYingZhong_ShiZi_1 2
+    3300056: BingYingZhong_ShiZi_1 3
+    3300058: BingYingZhong_ShiZi_1 4
+    3300060: BingYingZhong_ShiZi_1 5
+    3300062: BingYingZhong_ShiZi_1 6
+    3300064: BingYingZhong_ShiZi_1 7
+    3300066: BingYingZhong_Xue_1_N
+    4300000: BingYingZhong_Bing_1
+    4300002: BingYingZhong_Di_1
+    4300004: BingYingZhong_ShiZhu_2
+    4300006: BingYingZhong_ShiZhu_1
+    4300008: BingYingZhong_ShiZhu_2
+    4300010: BingYingZhong_ShiZhu_1
+    4300012: BingYingZhong_ShiZhu_2
+    4300014: BingYingZhong_ShiZhu_1
+    4300016: BingYingZhong_BingChuang_1
+    4300018: BingYingZhong_ShiZhu_2
+    4300020: BingYingZhong_ShiZhu_1
+    4300022: BingYingZhong_ShiZhu_2
+    4300024: BingYingZhong_ShiZhu_1
+    4300026: BingYingZhong_ShiZhu_2
+    4300028: BingYingZhong_ShiZhu_1
+    4300030: BingYingZhong_Qiang_1
+    4300032: BingYingZhong_Bing_2
+    4300034: BingYingZhong_ShiZhu_2
+    4300036: BingYingZhong_Qiang_2
+    4300038: BingYingZhong_ShiZi_1
+    4300040: BingYingZhong_ShiZi_1
+    4300042: BingYingZhong_ShiZi_1
+    4300044: BingYingZhong_ShiZi_1
+    4300046: BingYingZhong_ShiZi_1
+    4300048: BingYingZhong_ShiZi_1
+    4300050: BingYingZhong_ShiZi_1
+    4300052: BingYingZhong_ShiZi_1
+    4300054: BingYingZhong_MenDong_3
+    4300056: BingYingZhong_MenDong_1
+    4300058: BingYingZhong_Mendong_2
+    4300060: BingYingZhong_MenDong_3
+    4300062: BingYingZhong_Mendong_2
+    4300064: BingYingZhong_MenDong_1
+    4300066: BingYingZhong_Xue_1_N
+    9500000: //RootNode
+    2186277476908879412: ImportLogs
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_BingChuang_1
+    second: {fileID: 2100000, guid: 2264719d558df466f8fa6a3c12c86a5e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_Bing_1
+    second: {fileID: 2100000, guid: 43855db4676d54ff0a9102b0542a77a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_Bing_2
+    second: {fileID: 2100000, guid: b6d89b5dab73540279252fd3e65ccb11, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_Di_1
+    second: {fileID: 2100000, guid: afb332ef1ca2a42d1b2a2a6de4c79882, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_MenDong_1
+    second: {fileID: 2100000, guid: cc365e34a719248e59fbd82618aebfc5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_MenDong_3_D
+    second: {fileID: 2100000, guid: 89a42de007b7944639b2db6dd85d5a13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_Qiang_1
+    second: {fileID: 2100000, guid: 4b07f4407c1ba4ebb870c3e44c41238d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_Qiang_2
+    second: {fileID: 2100000, guid: 39a64ba1a3b01479bb0577102621f51d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_ShiZhu_1
+    second: {fileID: 2100000, guid: e7d6195ad4303437bbbb2e646ded4971, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_ShiZhu_2
+    second: {fileID: 2100000, guid: c2649d64bf5894b948aa12ec0e1a7a13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_ShiZi_1
+    second: {fileID: 2100000, guid: cf0761b88dc1b40fa971ce68cf5e3c55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BingYingZhong_Xue_1
+    second: {fileID: 2100000, guid: a4edc7d8ac728487bb473fd5714b3498, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Fb_BingYingZhong_MenDong_2
+    second: {fileID: 2100000, guid: d2e4270d4daec4b34a92f336ae3031ad, type: 2}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

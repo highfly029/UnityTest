@@ -1,0 +1,129 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: HuiSiLang_boss
+  m_Shader: {fileID: 4800000, guid: 790a88bddbb2f0a41a12c7fce0e5c733, type: 3}
+  m_ShaderKeywords: _CUBEMAP _HITGLOW_OFF _NORMALMAP _REFLECT_CUBEMAP _RIM_LIGHT _SPECULAR
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: 1900
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _AlphaTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _BumpMap:
+        m_Texture: {fileID: 2800000, guid: 50d1efa23b7799d47b849fca554be209, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeMap:
+        m_Texture: {fileID: 8900000, guid: 0b3805a034a349c4587901857738bc31, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CubeTex:
+        m_Texture: {fileID: 8900000, guid: 59f5cf1dc960e504ca337bd949d84182, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailAlbedoMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailMask:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _DetailNormalMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _EmissionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MainTex:
+        m_Texture: {fileID: 2800000, guid: 19edfdd6bc48d9c4c9edddb144a302cd, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 504c8e4e4bcf5af4bb4de5fe95901e2e, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MetallicGlossMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _NormalTex:
+        m_Texture: {fileID: 2800000, guid: 50d1efa23b7799d47b849fca554be209, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _OcclusionMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _ParallaxMap:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RimMap:
+        m_Texture: {fileID: 2800000, guid: ae44722f63f1b284da9b4c9379e0922f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _RimTex:
+        m_Texture: {fileID: 2800000, guid: ae44722f63f1b284da9b4c9379e0922f, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _BumpScale: 1
+    - _CubeMapRotation: 0
+    - _CullMode: 2
+    - _Cutoff: 0.5
+    - _DetailNormalMapScale: 1
+    - _DstBlend: 10
+    - _GlossMapScale: 1
+    - _GlossScale: 1
+    - _Glossiness: 0.5
+    - _GlossyReflections: 1
+    - _HasMask: 0
+    - _Highlights: 1
+    - _HitGlow: 0
+    - _HitGlowPower: 0.81
+    - _Indensity: 0.873
+    - _Metallic: 0
+    - _Mode: 0
+    - _OcclusionStrength: 1
+    - _Parallax: 0.02
+    - _ReflecRadio: 0.319
+    - _ReflectScale: 0.588
+    - _Reflections: 1
+    - _Rim: 1
+    - _RimPower: 2.07
+    - _RimRange: 1
+    - _SmoothnessTextureChannel: 0
+    - _SpecPower: 0.53
+    - _SpecScale: 0.539
+    - _Specular: 1
+    - _SpecularHighlights: 1
+    - _SpecularPower: 1
+    - _SpecularScale: 0.892
+    - _SrcBlend: 5
+    - _UVSec: 0
+    - _ZWrite: 1
+    m_Colors:
+    - _Color: {r: 1, g: 1, b: 1, a: 1}
+    - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _HitGlowColor: {r: 1, g: 0.6413794, b: 0, a: 1}
+    - _MaskRect: {r: -10, g: -10, b: 10, a: 10}
+    - _RimColor: {r: 0.61764705, g: 0.29391482, b: 0, a: 1}
+    - _SpecColor: {r: 0.6592777, g: 0.7829391, b: 0.9852941, a: 1}
+    - _SpecularColor: {r: 1, g: 1, b: 1, a: 1}

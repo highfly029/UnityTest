@@ -1,0 +1,153 @@
+fileFormatVersion: 2
+guid: 87e7a253f9275dd419c47de8016b589f
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Scene_Build_HuanYinFang_ZhuDian_1a
+    100004: Scene_Build_HuanYinFang_ZhuDian_1b
+    100006: Scene_Build_HuanYinFang_ZhuDian_1c
+    100008: Scene_Build_HuanYinFang_ZhuDian_1d
+    100010: Scene_Build_HuanYinFang_ZhuDian_1e
+    100012: Scene_Build_HuanYinFang_ZhuDian_1f
+    100014: Scene_Build_HuanYinFang_ZhuDian_1g
+    100016: Scene_Build_HuanYinFang_ZhuDian_1h
+    100018: Scene_Build_HuanYinFang_ZhuDian_1i
+    100020: Scene_Build_HuanYinFang_ZhuDian_1j
+    100022: Scene_Build_HuanYinFang_ZhuDian_1_P_Xzm
+    100024: Scene_Build_HuanYinFang_ZhuDian_1_Xzm
+    400000: //RootNode
+    400002: Scene_Build_HuanYinFang_ZhuDian_1a
+    400004: Scene_Build_HuanYinFang_ZhuDian_1b
+    400006: Scene_Build_HuanYinFang_ZhuDian_1c
+    400008: Scene_Build_HuanYinFang_ZhuDian_1d
+    400010: Scene_Build_HuanYinFang_ZhuDian_1e
+    400012: Scene_Build_HuanYinFang_ZhuDian_1f
+    400014: Scene_Build_HuanYinFang_ZhuDian_1g
+    400016: Scene_Build_HuanYinFang_ZhuDian_1h
+    400018: Scene_Build_HuanYinFang_ZhuDian_1i
+    400020: Scene_Build_HuanYinFang_ZhuDian_1j
+    400022: Scene_Build_HuanYinFang_ZhuDian_1_P_Xzm
+    400024: Scene_Build_HuanYinFang_ZhuDian_1_Xzm
+    2300000: Scene_Build_HuanYinFang_ZhuDian_1a
+    2300002: Scene_Build_HuanYinFang_ZhuDian_1b
+    2300004: Scene_Build_HuanYinFang_ZhuDian_1c
+    2300006: Scene_Build_HuanYinFang_ZhuDian_1d
+    2300008: Scene_Build_HuanYinFang_ZhuDian_1e
+    2300010: Scene_Build_HuanYinFang_ZhuDian_1f
+    2300012: Scene_Build_HuanYinFang_ZhuDian_1g
+    2300014: Scene_Build_HuanYinFang_ZhuDian_1h
+    2300016: Scene_Build_HuanYinFang_ZhuDian_1i
+    2300018: Scene_Build_HuanYinFang_ZhuDian_1j
+    2300020: Scene_Build_HuanYinFang_ZhuDian_1_P_Xzm
+    2300022: Scene_Build_HuanYinFang_ZhuDian_1_Xzm
+    3300000: Scene_Build_HuanYinFang_ZhuDian_1a
+    3300002: Scene_Build_HuanYinFang_ZhuDian_1b
+    3300004: Scene_Build_HuanYinFang_ZhuDian_1c
+    3300006: Scene_Build_HuanYinFang_ZhuDian_1d
+    3300008: Scene_Build_HuanYinFang_ZhuDian_1e
+    3300010: Scene_Build_HuanYinFang_ZhuDian_1f
+    3300012: Scene_Build_HuanYinFang_ZhuDian_1g
+    3300014: Scene_Build_HuanYinFang_ZhuDian_1h
+    3300016: Scene_Build_HuanYinFang_ZhuDian_1i
+    3300018: Scene_Build_HuanYinFang_ZhuDian_1j
+    3300020: Scene_Build_HuanYinFang_ZhuDian_1_P_Xzm
+    3300022: Scene_Build_HuanYinFang_ZhuDian_1_Xzm
+    4300000: Scene_Build_HuanYinFang_ZhuDian_1f
+    4300002: Scene_Build_HuanYinFang_ZhuDian_1c
+    4300004: Scene_Build_HuanYinFang_ZhuDian_1e
+    4300006: Scene_Build_HuanYinFang_ZhuDian_1a
+    4300008: Scene_Build_HuanYinFang_ZhuDian_1d
+    4300010: Scene_Build_HuanYinFang_ZhuDian_1b
+    4300012: Scene_Build_HuanYinFang_ZhuDian_1h
+    4300014: Scene_Build_HuanYinFang_ZhuDian_1i
+    4300016: Scene_Build_HuanYinFang_ZhuDian_1j
+    4300018: Scene_Build_HuanYinFang_ZhuDian_1g
+    4300020: Scene_Build_HuanYinFang_ZhuDian_1_P_Xzm
+    4300022: Scene_Build_HuanYinFang_ZhuDian_1_Xzm
+  externalObjects: {}
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 3
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 0
+    importBlendShapes: 0
+    importCameras: 0
+    importLights: 0
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 0
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
